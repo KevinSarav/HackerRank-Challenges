@@ -1,7 +1,8 @@
 /*This is one of the warm-up challenges. The reason I felt this was important to share is because it is my first time
 using a HashMap in Java. I have used dictionaries before in Python in a university class, but never HashMaps in practical 
 use. It was necessary in this assignment because using 2 for loops caused my code to time out in HackerRank, so I needed a 
-more efficient way to solve the challenge. */
+more efficient way to solve the challenge. The link to the challenge is below.
+https://www.hackerrank.com/challenges/pairs/submissions/code/108139126 */
 
 import java.io.*;
 import java.math.*;
